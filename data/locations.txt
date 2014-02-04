@@ -1,0 +1,12 @@
+Dublin,Airport,EIDW,450,364
+Shannon,Airport,EINN,160,464
+Cork,Airport,EICK,225,623
+Belfast,Airport,EGAC,480,140
+Eglinton,Airport,EGAE,365,80
+Galway,Normal,IGALWAYO3,160,364
+Kilkenny City,Normal,IKILKENN2,373,496
+Ballyhaunis,Normal,IMAYOBAL2,182,278
+Killarney,Normal,IKERRYKI2,120,585
+Roscrea,Normal,ITIPPERA2,288,450
+Ardagh,Normal,ILONGFOR2,320,300
+Killyfole,Normal,ICARLOWC4,340,200
